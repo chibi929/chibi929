@@ -5,4 +5,4 @@
 
 ## Trophy
 
-![Trophy](https://github-profile-trophy-fork-two.vercel.app/?username=chibi929)
+![Trophy](https://github-profile-trophy-kannan.vercel.app/?username=chibi929)
